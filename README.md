@@ -1,15 +1,13 @@
 <samp>
  <p align="center">
-  <a href="https://github.com/flaviapaiva234/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&center=true&lines=Hello+I'm+Flávia+Paiva"></a>
+  <a href="https://github.com/flaviapaiva234/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Arial&center=true&lines=Hi+👋+I'm+Flávia+Paiva+🌸"></a>
 </p>
 
-<div>
- <p align="center">
-<a href="https://github.com/flaviapaiva234">
-<img height="180em" src="https://github-readme-status.vercel.app/api?username=flaviapaiva234&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=flaviapaiva234&layout=compact&langs_count=16&theme=dracula"/>
-</p>
- </div>
+<div align="center">
+  <a href="https://github.com/flaviapaiva234">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=flaviapaiva234&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flaviapaiva234&layout=compact&langs_count=7&theme=dracula"/>
+</div>
  
  <div> 
   <p align="center">
