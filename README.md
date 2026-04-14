@@ -5,7 +5,7 @@
   </a>
 </p>
 
-🎯 Analista de QA Júnior  
+🎯 🔍Analista de QA Júnior  
 💻 Testes de Software | Qualidade de Software | Lógica de Programação  
 
 ## 📌 Portfólio
