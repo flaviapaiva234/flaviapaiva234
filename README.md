@@ -7,7 +7,7 @@
 💻 Testes de Software | Lógica de Programação  
 
 ## 📌 Portfólio
-🔗 ([QA Portfolio]([https://github.com/flaviapaiva234/qa-portfolio]))
+🔗 [Acesse meu portfólio de QA](https://github.com/flaviapaiva234/qa-portfolio)
 
 ## 🚀 Habilidades
 - Testes Manuais
