@@ -68,16 +68,22 @@ Neste portfólio, você encontrará:
 </p>
 
 ---
-## 🐍 Contribuições
 
-![Snake animation](https://github.com/flaviapaiva234/flaviapaiva234/blob/output/github-contribution-grid-snake.svg)
+## 🐞 Atividade de QA
+
+<p align="center">
+  <img src="https://github.com/flaviapaiva234/flaviapaiva234/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+<p align="center">
+  <sub>Garantindo qualidade e evoluindo um commit por vez.</sub>
+</p>
 
 ---
 
 <p align="center">
   ✨ Obrigada por visitar meu perfil
 </p>
-
 
 
  
