@@ -13,12 +13,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate customized snake animation
+      - name: Generate snake animation
         uses: Platane/snk@v3
         with:
           github_user_name: flaviapaiva234
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23EC4899&color_dots=%23DBEAFE,%2393C5FD,%2360A5FA,%233B82F6,%231E3A8A
+            dist/github-contribution-grid-snake.gif?color_snake=%23EC4899&color_dots=%23DBEAFE,%2393C5FD,%2360A5FA,%233B82F6,%231E3A8A&color_background=%23FFFFFF
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
