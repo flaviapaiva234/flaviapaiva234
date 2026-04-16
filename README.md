@@ -68,6 +68,11 @@ Neste portfólio, você encontrará:
 </p>
 
 ---
+## 🐍 Contribuições
+
+![Snake animation](https://github.com/flaviapaiva234/flaviapaiva234/blob/output/github-contribution-grid-snake.svg)
+
+---
 
 <p align="center">
   ✨ Obrigada por visitar meu perfil
