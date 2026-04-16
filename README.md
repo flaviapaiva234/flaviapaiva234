@@ -72,7 +72,7 @@ Neste portfólio, você encontrará:
 ## 🐞 Atividade de QA
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/flaviapaiva234/flaviapaiva234/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/flaviapaiva234/flaviapaiva234/output/github-contribution-grid-snake.gif" alt="Cobrinha dos commits" />
 </p>
 
 <p align="center">
