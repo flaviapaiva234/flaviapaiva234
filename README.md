@@ -23,6 +23,8 @@ Sou **QA em formação**, com foco em **testes manuais**, **criação de casos d
 
 Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha trajetória na área de **Quality Assurance**, desenvolvendo prática, atenção aos detalhes e pensamento analítico para contribuir com a qualidade de software.
 
+> 🧩 **Diferenciais:** Atenção aos detalhes | Comunicação clara | Organização
+
 ---
 
 ## ✦ Portfólio de QA
@@ -35,6 +37,21 @@ Neste portfólio, você encontrará:
 - Cenários positivos e negativos
 - Exercícios práticos de QA
 - Estrutura de testes manuais
+
+---
+
+## ✦ Exemplo de Caso de Teste
+
+### 🔐 Teste de Login
+
+| ID   | Cenário              | Resultado Esperado         |
+|------|---------------------|-----------------------------|
+| CT01 | Login válido        | Acesso ao sistema           |
+| CT02 | Senha incorreta     | Mensagem de erro exibida    |
+| CT03 | Campo vazio         | Validação obrigatória       |
+| CT04 | Usuário inexistente | Usuário não encontrado      |
+
+📌 Este é um exemplo simples. Mais casos estão disponíveis no meu portfólio.
 
 ---
 
