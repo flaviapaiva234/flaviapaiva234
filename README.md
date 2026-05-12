@@ -1,11 +1,11 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&lines=Olá%2C+eu+sou+Flávia+Paiva+👋;QA+em+formação;🔎+Testes+Manuais+%7C+Casos+de+Teste;Identificação+de+Bugs+🐞" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3200&pause=1200&color=7C3AED&center=true&vCenter=true&width=720&lines=Olá%2C+eu+sou+Flávia+Paiva+👋;🔎+Analista+de+QA+Júnior;🧪+Testes+Manuais+%7C+Casos+de+Teste;🐞+Identificação+de+Bugs" alt="Typing SVG" />
 </p>
 
 <h1 align="center">Flávia Paiva</h1>
 
 <p align="center">
-  <strong>QA em formação</strong> • <strong>ADS</strong> • <strong>Qualidade de Software</strong>
+  <strong> Analista de QA Júnior</strong> • <strong>ADS</strong> • <strong>Qualidade de Software</strong>
 </p>
 
 <p align="center">
@@ -19,9 +19,9 @@
 
 ## ✦ Sobre mim
 
-Sou **QA em formação**, com foco em **testes manuais**, **criação de casos de teste** e **identificação de bugs**.
+Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha trajetória na área de **Quality Assurance**, desenvolvendo prática en testes manuais, documentação de casos de teste, atenção aos detalhes e pensamento analítico para contribuir com a qualidade de software.
 
-Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha trajetória na área de **Quality Assurance**, desenvolvendo prática, atenção aos detalhes e pensamento analítico para contribuir com a qualidade de software.
+Atualmente, venho criando projetos práticos no GitHub para demonstrar minha evolução em testes manuais, documentação de casos de teste e qualidade de software.
 
 > 🧩 **Diferenciais:** Atenção aos detalhes | Comunicação clara | Organização
 
@@ -31,12 +31,32 @@ Sou formada em **Análise e Desenvolvimento de Sistemas (ADS)** e estou construi
 
 🔗 [Acesse meu portfólio de QA](https://github.com/flaviapaiva234/qa-portfolio)
 
+🌐 [Acesse meu projeto online SPA Responsive QA](https://flaviapaiva234.github.io/spa-responsive-qa/)
+
+💻 [Repositório do projeto SPA Responsive QA](https://github.com/flaviapaiva234/spa-responsive-qa)
+
 Neste portfólio, você encontrará:
 
-- Casos de teste
+- Casos de teste documentados
 - Cenários positivos e negativos
 - Exercícios práticos de QA
+- Projeto web responsivo com foco em apresentação de serviços de QA
 - Estrutura de testes manuais
+
+---
+
+## ✦ Projetos em destaque
+
+### 🧪 QA Portfolio
+Repositório com casos de teste, cenários positivos e negativos, documentação de testes manuais e registro de práticas em QA.
+
+🔗 [Ver repositório](https://github.com/flaviapaiva234/qa-portfolio)
+
+### 🌐 SPA Responsive QA
+Projeto web responsivo criado para apresentar serviços de QA, com foco em layout, responsividade e evolução prática do portfólio.
+
+🔗 [Ver site online](https://flaviapaiva234.github.io/spa-responsive-qa/)  
+💻 [Ver repositório](https://github.com/flaviapaiva234/spa-responsive-qa)
 
 ---
 
